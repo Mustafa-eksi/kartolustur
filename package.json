@@ -1,0 +1,15 @@
+{
+  "name": "kartolustur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "mustafa",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^24.4.0"
+  },
+  "dependencies": {}
+}
